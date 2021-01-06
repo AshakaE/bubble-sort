@@ -19,7 +19,7 @@ end
 
 ## Built With
 
-[Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
+![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
 
 ## Getting Started
 
