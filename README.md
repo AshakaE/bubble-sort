@@ -19,13 +19,13 @@ end
 
 ## Built With
 
-![Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
+[Ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
 
 ## Getting Started
 
 Try out in interactive ruby shell with these commands
 
-- copy code from ![raw code](https://github.com/AshakaE/bubble-sort/blob/development/bubble_sort.rb)
+- copy code from [raw code](https://github.com/AshakaE/bubble-sort/blob/development/bubble_sort.rb)
 - `open terminal or cmd and type 'irb'` **must have ruby installed** 
 - `paste copied code and hit enter`
 
@@ -34,7 +34,7 @@ Try out in interactive ruby shell with these commands
 
 👤 **Ashaka**
 
-- Github : ![AshakaE](https://github.com/AshakaE)
+- Github : [AshakaE](https://github.com/AshakaE)
 - Twitter : [shaqzee](https://twitter.com/shaqzee_)
 
 👤 **Saima**
